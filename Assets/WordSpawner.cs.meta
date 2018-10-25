@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef2a8634e78a37140abe1d951be2beb3
+timeCreated: 1512744416
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wordPrefab: {fileID: 1513577208808720, guid: 827bf4519a2ae0f49b6494c13ad6c379,
+      type: 2}
+  - wordCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
